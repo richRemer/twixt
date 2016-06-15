@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/richRemer/twixt/issues"
   },
-  "homepage": "https://github.com/richRemer/twixt#readme"
+  "homepage": "https://github.com/richRemer/twixt#readme",
+  "dependencies": {
+    "twixt-document": "0.0.1"
+  }
 }
