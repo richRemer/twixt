@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/richRemer/twixt#readme",
   "dependencies": {
-    "twixt-document": "0.0.1"
+    "twixt-document": "0.0.2"
   }
 }
