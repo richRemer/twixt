@@ -1,0 +1,19 @@
+{
+  "name": "twixt",
+  "version": "0.0.1",
+  "description": "function library for building web client interfaces",
+  "main": "twixt.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/richRemer/twixt.git"
+  },
+  "author": "Richard Remer (reanjr@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richRemer/twixt/issues"
+  },
+  "homepage": "https://github.com/richRemer/twixt#readme"
+}
