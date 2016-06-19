@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/richRemer/twixt#readme",
   "dependencies": {
+    "twixt-click": "0.0.2",
     "twixt-document": "0.0.2",
+    "twixt-event-target": "0.0.1",
     "twixt-handle": "0.0.2",
     "twixt-select": "0.0.2"
   }
