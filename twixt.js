@@ -1,5 +1,7 @@
+var select = require("twixt-select");
+
 module.exports = {
     document: require("twixt-document"),
-    handle: require("twixt-handle"),
-    select: require("twixt-select")
+    handle: select.into(require("twixt-handle")),
+    select: select
 };
