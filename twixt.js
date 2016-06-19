@@ -5,5 +5,6 @@ module.exports = {
     document: require("twixt-document"),
     EventTarget: require("twixt-event-target"),
     handle: select.into(require("twixt-handle")),
-    select: select
+    select: select,
+    watch: require("twixt-watch")
 };
