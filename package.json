@@ -19,6 +19,6 @@
   "dependencies": {
     "twixt-document": "0.0.2",
     "twixt-handle": "0.0.2",
-    "twixt-select": "0.0.1"
+    "twixt-select": "0.0.2"
   }
 }
