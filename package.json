@@ -1,6 +1,6 @@
 {
   "name": "twixt",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "function library for building web client interfaces",
   "main": "twixt.js",
   "scripts": {
