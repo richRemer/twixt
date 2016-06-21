@@ -21,7 +21,9 @@
     "twixt-document": "0.0.2",
     "twixt-event-target": "0.0.1",
     "twixt-handle": "0.0.2",
-    "twixt-select": "0.0.2",
-    "twixt-watch": "0.0.2"
+    "twixt-mutant": "0.0.1",
+    "twixt-mutation": "0.0.1",
+    "twixt-mutation-event": "0.0.1",
+    "twixt-select": "0.0.2"
   }
 }

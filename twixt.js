@@ -5,6 +5,8 @@ module.exports = {
     document: require("twixt-document"),
     EventTarget: require("twixt-event-target"),
     handle: select.into(require("twixt-handle")),
-    select: select,
-    Watch: require("twixt-watch")
+    Mutant: require("twixt-mutant"),
+    mutation: require("twixt-mutation"),
+    MutationEvent: require("twixt-mutation-event"),
+    select: select
 };
