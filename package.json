@@ -18,6 +18,7 @@
   "homepage": "https://github.com/richRemer/twixt#readme",
   "dependencies": {
     "twixt-chain": "0.0.1",
+    "twixt-class": "0.0.1",
     "twixt-click": "0.0.2",
     "twixt-document": "0.0.2",
     "twixt-event-target": "0.0.1",

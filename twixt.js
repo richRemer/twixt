@@ -2,6 +2,7 @@ var select = require("twixt-select");
 
 module.exports = {
     chain: require("twixt-chain"),
+    class: require("twixt-class"),
     click: select.into(require("twixt-click")),
     document: require("twixt-document"),
     EventTarget: require("twixt-event-target"),
