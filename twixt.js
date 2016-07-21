@@ -10,5 +10,6 @@ module.exports = {
     Mutant: require("twixt-mutant"),
     mutation: require("twixt-mutation"),
     MutationEvent: require("twixt-mutation-event"),
-    select: select
+    select: select,
+    submit: select.into(require("twixt-submit"))
 };
